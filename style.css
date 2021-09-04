@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: #EFB7B7;
+}
+img{
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    border-style:solid;
+}
+p{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #EEEEEE;
+    font-family: monospace;
+        background-color: #FF6B6B;
+
+}
+h1{
+       color: #EEEEEE; 
+    margin-bottom: 50px;
+    background-color: #FF6B6B;
+}
+div{
+    margin-top: 25px;
+        width: 500px;
+    height: 400px;
+}
